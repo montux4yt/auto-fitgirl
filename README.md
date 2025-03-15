@@ -2,7 +2,7 @@
 
 - Automate the process of `Extracting download Links` from `FitGirl website` and `Batch download the links`
 
-- Run the `get-links.sh` script
+## Run the `get-links.sh` script
 
 ```bash
   bash get-links.sh $1 $2
@@ -12,7 +12,7 @@
 - $2 = `initial name of the download link for regex`
 
 
-- Run the `batch.sh` script
+## Run the `batch.sh` script
 
 ```bash
   bash batch.sh $1 $2
