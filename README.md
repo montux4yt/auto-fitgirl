@@ -8,8 +8,8 @@
     bash get-links.sh $1 $2
   ```
 
-  - $1 = `link to the game page`
-  - $2 = `initial name of the download link for regex`
+  - **$1** = `link to the game page`
+  - **$2** = `initial name of the download link for regex`
 
 
 ## Run the `batch.sh` script
@@ -18,5 +18,5 @@
     bash batch.sh $1 $2
   ```
 
-  - $1 = `number of files for the batch`
-  - $2 = `line number limit`
+  - **$1** = `number of files for the batch`
+  - **$2** = `line number limit`
