@@ -1,5 +1,7 @@
 # Auto-FitGirl
 
+### Explanation Video: [Auto-FitGirl YT-Video](https://www.youtube.com/watch?v=hCLiUV1lprw)
+
   - Automate the process of `Extracting download Links` from `FitGirl website` and `Batch download the links`
 
 ## Run the `get-links.sh` script
