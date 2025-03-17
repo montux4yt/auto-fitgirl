@@ -20,5 +20,5 @@
     bash batch.sh $1 $2
   ```
 
-  - **$1** = `number of files for the batch`
-  - **$2** = `line number limit`
+  - **$1** = `starting line number for the batch`
+  - **$2** = `ending line number for the batch`
